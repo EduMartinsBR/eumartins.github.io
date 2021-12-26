@@ -60,6 +60,13 @@ DEPENDENCES
       text-decoration: var(--uirLinkTextDecoration) !important;
   }
   
+.avatar {
+    height: 300px;
+    width: 300px;
+    align-self: center;
+    padding-top: 50px;
+}
+
   /* The component will reset browser's styles of list */
   
   .r-list{
@@ -320,7 +327,7 @@ DEPENDENCES
   }
   
   .page{
-    max-width: 380px;
+    max-width: 650px;
     padding: 1rem;
     margin: auto;  
     text-align: center;
